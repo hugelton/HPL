@@ -1,4 +1,4 @@
-# FAQ — Nonbinding review draft
+# FAQ — Nonbinding guidance
 
 The English LICENSE text controls.
 
