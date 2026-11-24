@@ -1,0 +1,7 @@
+Hügelton Public License, version 1.0 — review draft.
+
+The license structure is informed by the Mozilla Public License 2.0, but its terms differ. HPL is a separate source-available license, not an official version of MPL.
+
+Reference: https://www.mozilla.org/en-US/MPL/2.0/
+
+The unified scope also takes account of hardware-source and product concepts in CERN-OHL v2 and hosted-service restrictions in Elastic License 2.0; HPL is not either of those licenses.
